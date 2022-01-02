@@ -1,20 +1,38 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Empowering Sustainable Green Industry
+subtitle: Managing  green spaces whilst helping the environment
+image: img/green-parkland-banner.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: What is Mobotics?
+  text: Mobotics is an ecosystem of technologies designed to provide a sustainable
+    approach to green space management. We believe that EV's and Autonomous
+    technology should be more accessible and open to residential and commercial
+    users. Our open architecture approach has a roadmap that starts with RALPH.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Our Approach
+  text: Mobotics ultimately brings together, Intelligent Navigation, AI Vision and
+    EV Platforms to enable end to end solutions that are simple to use and
+    provide a sustainable alternative to ICE powered legacy equipment. This
+    reduces the impact on the environment and the manpower needed to maintain
+    green spaces.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/ralph-kit.png
+    text: RALPH is our beta kit learning platform that will be available for
+      purchase in the near future. This enables any existing zero turn mower to
+      be upgraded to have autonomous capabilities and helps us all learn how to
+      safely leverage autonomous solutions whilst cutting your grass with
+      minimal effort.
+  - image: img/foxconn-mih-open-ev-platform-features-1024x638.jpg
+    text: "We are developing a modular EV platform that can be reused for different
+      activities, initially focused on green space management. Options are open
+      to explore solutions for farmers and producers in the future to help with
+      repetitive tasks and to de-risk the supply chain associated with seasonal
+      labour. "
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: "Electric Vehicles and Autonomous systems are set to impact all our lives
+    but its currently the preserve of big business. Our objective is to open up
+    the technologies to make them more accessible, reduce the barriers to
+    adoption, and drive innovation around real world solutions that have an
+    impact. "
 ---
-
