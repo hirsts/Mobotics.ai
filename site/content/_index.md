@@ -29,7 +29,7 @@ products:
       repetitive tasks and to de-risk the supply chain associated with seasonal
       labour. "
 values:
-  heading: Our values
+  heading: Our Values
   text: "Electric Vehicles and Autonomous systems are set to impact all our lives
     but its currently the preserve of big business. Our objective is to open up
     the technologies to make them more accessible, reduce the barriers to
